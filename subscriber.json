@@ -1,0 +1,348 @@
+[
+    {
+        "name": "我的",
+        "columns": [
+            {
+                "column_name": "时间",
+                "isSubscribe": "true",
+                "abstract": "教给你如何管理时间"
+            },
+            {
+                "column_name": "豆瓣一刻",
+                "isSubscribe": "true",
+                "abstract": "豆瓣每日内容精选"
+            }
+        ]
+    },
+    {
+        "name": "人文",
+        "columns": [
+            {
+                "column_name": "非常道传媒",
+                "isSubscribe": "false",
+                "abstract": "西北偏西，问道荒原"
+            },
+            {
+                "column_name": "贤二",
+                "isSubscribe": "false",
+                "abstract": "每个人都能从贤二身上找到"
+            },
+			 {
+                "column_name": "豆瓣一刻",
+                "isSubscribe": "true",
+                "abstract": "豆瓣每日内容精选"
+            },
+			 {
+                "column_name": "洞见",
+                "isSubscribe": "false",
+                "abstract": "不闹革命的文化"
+            },
+			 {
+                "column_name": "十点读书",
+                "isSubscribe": "false",
+                "abstract": "深夜十点，陪你读书"
+            },
+			 {
+                "column_name": "一条",
+                "isSubscribe": "false",
+                "abstract": "每天一条三分钟原创视频"
+            },
+			 {
+                "column_name": "笨鸟文摘",
+                "isSubscribe": "false",
+                "abstract": "先飞之笨鸟，文摘之精华"
+            },
+			 {
+                "column_name": "知乎日报",
+                "isSubscribe": "false",
+                "abstract": "分享知乎上的热门问答"
+            }
+        ]
+    },
+	 {
+        "name": "视觉",
+        "columns": [
+            {
+                "column_name": "视觉志",
+                "isSubscribe": "false",
+                "abstract": "最受欢迎新闻公号"
+            },
+            {
+                "column_name": "时尚图片",
+                "isSubscribe": "false",
+                "abstract": "传递前沿时尚气息"
+            },
+			 {
+                "column_name": "新闻图片",
+                "isSubscribe": "false",
+                "abstract": "新闻现场直击"
+            },
+			 {
+                "column_name": "娱乐图片",
+                "isSubscribe": "false",
+                "abstract": "娱乐现场万花筒"
+            },
+			 {
+                "column_name": "创意铺子",
+                "isSubscribe": "false",
+                "abstract": "铺主在此，分享最新鲜新奇"
+            },
+			 {
+                "column_name": "物道",
+                "isSubscribe": "false",
+                "abstract": "中国最精致的微杂志"
+            },
+			 {
+                "column_name": "外滩画报",
+                "isSubscribe": "false",
+                "abstract": "先飞之笨鸟，文摘之精华"
+            },
+			 {
+                "column_name": "知乎日报",
+                "isSubscribe": "false",
+                "abstract": "中国社会精英首选读物"
+            }
+        ]
+    },
+	{
+        "name": "科技",
+        "columns": [
+            {
+                "column_name": "虎嗅网",
+                "isSubscribe": "false",
+                "abstract": "聚合优质的创新信息与人群"
+            },
+            {
+                "column_name": "差评",
+                "isSubscribe": "false",
+                "abstract": "让我们荡起科技的双桨"
+            },
+			 {
+                "column_name": "PingWest",
+                "isSubscribe": "false",
+                "abstract": "有品好玩的科技"
+            },
+			 {
+                "column_name": "钛媒体",
+                "isSubscribe": "false",
+                "abstract": "有干货，有态度"
+            },
+			 {
+                "column_name": "科技每日推送",
+                "isSubscribe": "false",
+                "abstract": "科技生活原创媒体"
+            },
+			 {
+                "column_name": "爱范儿",
+                "isSubscribe": "false",
+                "abstract": "发现创新价值的科技媒体"
+            },
+			 {
+                "column_name": "硅谷密探",
+                "isSubscribe": "false",
+                "abstract": "来自硅谷的科技媒体"
+            },
+			 {
+                "column_name": "老道消息",
+                "isSubscribe": "false",
+                "abstract": "互联网冷知识，故事会"
+            }
+        ]
+    },
+	{
+        "name": "电影",
+        "columns": [
+            {
+                "column_name": "毒舌电影",
+                "isSubscribe": "false",
+                "abstract": "信毒蛇，有好戏"
+            },
+            {
+                "column_name": "电影工厂",
+                "isSubscribe": "false",
+                "abstract": "百万用户首选电影微刊"
+            },
+			 {
+                "column_name": "娱乐说",
+                "isSubscribe": "false",
+                "abstract": "专注娱乐资讯内容"
+            },
+			 {
+                "column_name": "十点电影",
+                "isSubscribe": "false",
+                "abstract": "有趣好玩的精彩影视"
+            },
+			 {
+                "column_name": "微电影+",
+                "isSubscribe": "false",
+                "abstract": "权威的微电影服务平台"
+            },
+			 {
+                "column_name": "毒药军",
+                "isSubscribe": "false",
+                "abstract": "教你躲避烂片的正确姿势"
+            },
+			 {
+                "column_name": "知影",
+                "isSubscribe": "false",
+                "abstract": "最有温度的电影自媒体"
+            },
+			 {
+                "column_name": "电影符号学",
+                "isSubscribe": "false",
+                "abstract": "影评人、制片"
+            }
+        ]
+    },
+	{
+        "name": "百科",
+        "columns": [
+           
+			 {
+                "column_name": "剥洋葱",
+                "isSubscribe": "false",
+                "abstract": "记录真实可感的生命"
+            },
+			 {
+                "column_name": "世界说+",
+                "isSubscribe": "false",
+                "abstract": "汇聚最有趣的全球故事"
+            },
+			 {
+                "column_name": "冰川思想",
+                "isSubscribe": "false",
+                "abstract": "汇聚一流评论人"
+            },
+			 {
+                "column_name": "果壳网",
+                "isSubscribe": "false",
+                "abstract": "科技有意思"
+            },
+			 {
+                "column_name": "正见",
+                "isSubscribe": "false",
+                "abstract": "一个独立团体"
+            }
+        ]
+    },
+	{
+        "name": "时尚",
+        "columns": [
+            {
+                "column_name": "时装军",
+                "isSubscribe": "false",
+                "abstract": "一个专业的时髦型人"
+            },
+            {
+                "column_name": "装主",
+                "isSubscribe": "false",
+                "abstract": "时装APP"
+            },
+			 {
+                "column_name": "肌迷",
+                "isSubscribe": "false",
+                "abstract": "用科学重新定义美丽"
+            },
+			 {
+                "column_name": "流传风",
+                "isSubscribe": "false",
+                "abstract": "流行穿搭"
+            },
+			 {
+                "column_name": "时尚先生+",
+                "isSubscribe": "false",
+                "abstract": "权威的微电影服务平台"
+            },
+			 {
+                "column_name": "救救我的脸",
+                "isSubscribe": "false",
+                "abstract": "最时尚的美容咨询"
+            },
+			 {
+                "column_name": "悦己",
+                "isSubscribe": "false",
+                "abstract": "官方杂志"
+            },
+			 {
+                "column_name": "她看",
+                "isSubscribe": "false",
+                "abstract": "中国女性第一看"
+            }
+        ]
+    },
+	{
+        "name": "星座",
+        "columns": [
+            {
+                "column_name": "科技紫微",
+                "isSubscribe": "false",
+                "abstract": "行业测算"
+            },
+            {
+                "column_name": "非常运势",
+                "isSubscribe": "false",
+                "abstract": "专业提供星座运势"
+            },
+			 {
+                "column_name": "方舟周易",
+                "isSubscribe": "false",
+                "abstract": "风水命理"
+            },
+			 {
+                "column_name": "朵朵塔罗",
+                "isSubscribe": "false",
+                "abstract": "塔罗牌、星座、周云"
+            }
+        ]
+    },
+	{
+        "name": "旅游",
+        "columns": [
+            {
+                "column_name": "豆瓣旅游",
+                "isSubscribe": "false",
+                "abstract": "豆瓣游记"
+            },
+            {
+                "column_name": "日本窗",
+                "isSubscribe": "false",
+                "abstract": "日本最大的中文媒体平台"
+            },
+			 {
+                "column_name": "借宿",
+                "isSubscribe": "false",
+                "abstract": "最美民宿以及精品酒店分享"
+            },
+			 {
+                "column_name": "新加坡眼",
+                "isSubscribe": "false",
+                "abstract": "带你去看新加坡"
+            },
+			 {
+                "column_name": "那一座城+",
+                "isSubscribe": "false",
+                "abstract": "城市的角落总有你"
+            },
+			 {
+                "column_name": "胡说八道",
+                "isSubscribe": "false",
+                "abstract": "旅游咨询"
+            },
+			 {
+                "column_name": "背包去环游",
+                "isSubscribe": "false",
+                "abstract": "环球旅行纪录片"
+            },
+			 {
+                "column_name": "拾忆路",
+                "isSubscribe": "false",
+                "abstract": "最好的旅行公号"
+            },
+			 {
+                "column_name": "国家旅游局",
+                "isSubscribe": "false",
+                "abstract": "官方信息咨询"
+            }
+        ]
+    }
+]
