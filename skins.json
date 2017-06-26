@@ -1,0 +1,28 @@
+[
+    {
+        "stylename": "最新上架",
+        "styles": [
+            {
+                "skinname": "萌宠兔子1",
+                "url": "http://image.nationalgeographic.com.cn/2017/0624/20170624010504862.jpg"
+            },
+            {
+                "skinname": "萌宠兔子2",
+                "url": "http://image.nationalgeographic.com.cn/2017/0612/20170612022602488.jpg"
+            }
+        ]
+    },
+    {
+        "stylename": "艺术设计",
+        "styles": [
+            {
+                "skinname": "大漠风景1",
+                "url": "http://image.nationalgeographic.com.cn/2017/0621/20170621031204929.jpg"
+            },
+            {
+                "skinname": "大漠风景2",
+                "url": "http://image.nationalgeographic.com.cn/2017/0611/20170611011052923.jpg"
+            }
+        ]
+    }
+]
