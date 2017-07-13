@@ -1,7 +1,9 @@
 {
-    "gtoday": "http://image.nationalgeographic.com.cn/2017/0706/20170706031700372.jpg",
+    "gtoday": "http://image.nationalgeographic.com.cn/2017/0712/20170712020728204.jpg",
     "recommends": [
         "https://vivienmm.github.io/today1.jpg",
-        "https://vivienmm.github.io/today3.jpg"
+        "https://vivienmm.github.io/today2.jpg",
+        "https://vivienmm.github.io/today3.jpg",
+        "https://vivienmm.github.io/07131.jpg"
     ]
 }
